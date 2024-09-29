@@ -6,5 +6,5 @@
   Version: 1.0.0
   Author: 
   Author URI: 
-  License: 
+  License: MIT
  */
